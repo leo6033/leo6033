@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![妄想's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo6033&show_icons=true&theme=radical)
+
+
+
+- 🔭 I’m currently working for NetEase
+- 🌱 I’m currently learning Game Development
+
 <!--
 **leo6033/leo6033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
