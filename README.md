@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning Game Development and CG
 
 <!--
 **leo6033/leo6033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
