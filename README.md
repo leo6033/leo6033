@@ -3,7 +3,7 @@
 ![妄想's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo6033&show_icons=true&theme=radical)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo6033&hide=typescript,css,html,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Game Development and CG
 
