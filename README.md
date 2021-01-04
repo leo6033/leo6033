@@ -3,7 +3,9 @@
 ![妄想's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo6033&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo6033&hide=typescript,css,html,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo6033&hide=typescript,css,html,c&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leo6033&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🌱 I’m currently learning Game Development and CG
 
