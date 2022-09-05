@@ -8,7 +8,13 @@
 <!--[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leo6033&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🌱 I’m currently learning Game Development and CG
-- 🔭 I’m currently working for NetEase
+- 🔭 I’m currently working for funtoy
+
+> 💬 work experience  
+> NetEase 2021.7 ~ 2022.8  
+> funtoy 2022.9 ~ now  
+> 
+
 
 <!--
 **leo6033/leo6033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
