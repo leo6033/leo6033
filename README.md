@@ -15,6 +15,15 @@
 > funtoy 2022.9 ~ now  
 > 
 
+-------
+
+I participate in game jams frequently. These are the demos I made before.
+
+- [BOOOM 2023](https://www.gcores.com/games/112906)
+- [BOOOM 2024](https://www.gcores.com/games/132989)
+- [GGJ 2023](https://www.bilibili.com/video/BV1sD4y1N7BA/)
+- [GGJ 2022](https://www.bilibili.com/video/BV1vP4y1P7w9)
+- [CUSGA 2021](https://www.bilibili.com/video/BV1kf4y1p7Tc)
 
 <!--
 **leo6033/leo6033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
