@@ -11,8 +11,8 @@
 - 🔭 I’m currently working for funtoy
 
 > 💬 work experience  
-> NetEase 2021.7 ~ 2022.8  
-> funtoy 2022.9 ~ now  
+> [NetEase](https://game.163.com/) 2021.7 ~ 2022.8  
+> [Funtoy](https://www.fantanggame.com/) 2022.9 ~ now  
 > 
 
 -------
